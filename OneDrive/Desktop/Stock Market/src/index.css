@@ -74,7 +74,8 @@ All colors MUST be HSL.
 
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
-
+#Enable dark
+  
   .dark {
     /* Same as root - we're using dark by default */
     --background: 220 26% 8%;
