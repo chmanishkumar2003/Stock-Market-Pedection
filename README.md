@@ -81,7 +81,7 @@ Hybrid model improved accuracy by 10–15% compared to individual models
 
 👥 Team & Role
 
-Team Size: 2
+Team Size: 3
 
 My Role: Data preprocessing, ML model development (LSTM & RF), hybrid integration, visualization
 
