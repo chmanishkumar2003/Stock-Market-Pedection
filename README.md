@@ -16,12 +16,12 @@ This project leverages **Artificial Intelligence (AI)** and **Machine Learning (
 
 **Frontend**  
 - HTML5, CSS3, JavaScript  
-- React.js (if applicable)  
+- React.js  
 - Chart.js / Recharts (for visualization)
 
 **Backend / ML**  
 - Node.js & Express.js  
-- Python (for AI/ML models — if applicable)  
+- Python (for AI/ML models)  
 - scikit-learn / TensorFlow / Pandas / NumPy
 
 **Others**  
@@ -30,10 +30,11 @@ This project leverages **Artificial Intelligence (AI)** and **Machine Learning (
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/chmanishkumar2003/Stock-Market-Pedection.git
+
 
 cd Stock-Market-Pedection
 
