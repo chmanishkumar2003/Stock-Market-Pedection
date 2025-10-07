@@ -49,5 +49,5 @@ This will run the application in development mode.
 Open http://localhost:3000 to view it in the browser.
 
 
-## 📂 Folder Structure
+
 
